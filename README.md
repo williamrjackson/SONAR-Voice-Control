@@ -3,12 +3,12 @@ Mackie Control Emulation for Voice Recognition DAW Control
 
 **Important information about the SONAR Voice Prototype:**
 
-This is a quick and dirty, hacky prototype of SONAR voice recognition support. It converts spoken commands to MIDI messages according to the Mackie Control Universal MIDI spec.   
+This is a quick and dirty, hacky prototype of SONAR voice recognition support. Created by me as a hack-a-thon project when I worked at Cakewalk. It converts spoken commands to MIDI messages according to the Mackie Control Universal MIDI spec.   
 
-The goal is to assess the feasibility and value of directly implementing a voice recognition feature in SONAR X4 to allow users holding a guitar or standing at a mic in a booth to drive SONAR hands-free. Maybe we can call it "Studio Assistant Talkback" or something. There may also be vision impaired accessibility benefits. 
+The goal was to assess the feasibility and value of directly implementing a voice recognition feature in SONAR X4 (which was in the planning stages at the time) to allow users holding a guitar or standing at a mic in a booth to drive SONAR hands-free. There would also be Universal Design / accessibility benefits. 
 
 **Short Version:**
-1) Read the command list at the bottom of this doc. It provides valuable info regarding  what the prototype can and can't do.
+1) Read the command list at the bottom of this doc. It provides valuable info regarding what the prototype can and can't do.
 2) Make sure a virtual MIDI port is installed.
 3) Insert the Mackie Control plugin in SONAR (Preferences|MIDI|Control Surfaces). Make sure its input is set to the virtual device.
 4) Launch the prototype applet.
