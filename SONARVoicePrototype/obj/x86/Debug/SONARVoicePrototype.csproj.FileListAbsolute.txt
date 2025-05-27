@@ -1,0 +1,17 @@
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\bin\x86\Debug\SONARVoicePrototype.exe.config
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\bin\x86\Debug\SONARVoicePrototype.exe
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\bin\x86\Debug\SONARVoicePrototype.pdb
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\bin\x86\Debug\Sanford.Collections.dll
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\bin\x86\Debug\Sanford.Multimedia.dll
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\bin\x86\Debug\Sanford.Multimedia.Midi.dll
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\bin\x86\Debug\Sanford.Multimedia.Timers.dll
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\bin\x86\Debug\Sanford.Threading.dll
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\bin\x86\Debug\Sanford.Multimedia.Midi.pdb
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\obj\x86\Debug\SONARVoicePrototype.csproj.AssemblyReference.cache
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\obj\x86\Debug\SONARVoicePrototype.Form1.resources
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\obj\x86\Debug\SONARVoicePrototype.Properties.Resources.resources
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\obj\x86\Debug\SONARVoicePrototype.csproj.GenerateResource.cache
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\obj\x86\Debug\SONARVoicePrototype.csproj.CoreCompileInputs.cache
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\obj\x86\Debug\SONARVoi.3F20DEE6.Up2Date
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\obj\x86\Debug\SONARVoicePrototype.exe
+D:\SONARVoiceRecPrototype\SONARVoicePrototype\obj\x86\Debug\SONARVoicePrototype.pdb

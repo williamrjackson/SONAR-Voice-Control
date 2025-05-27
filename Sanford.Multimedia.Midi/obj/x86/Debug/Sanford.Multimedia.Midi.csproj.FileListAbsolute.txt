@@ -1,0 +1,16 @@
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\bin\x86\Debug\Sanford.Multimedia.Midi.dll
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\bin\x86\Debug\Sanford.Multimedia.Midi.pdb
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\bin\x86\Debug\Sanford.Collections.dll
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\bin\x86\Debug\Sanford.Multimedia.dll
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\bin\x86\Debug\Sanford.Multimedia.Timers.dll
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\bin\x86\Debug\Sanford.Threading.dll
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\obj\x86\Debug\Sanford.Multimedia.Midi.csproj.AssemblyReference.cache
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\obj\x86\Debug\Sanford.Multimedia.Midi.UI.DeviceDialog.resources
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\obj\x86\Debug\Sanford.Multimedia.Midi.UI.InputDeviceDialog.resources
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\obj\x86\Debug\Sanford.Multimedia.Midi.UI.OutputDeviceDialog.resources
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\obj\x86\Debug\Sanford.Multimedia.Midi.UI.PianoControlDialog.resources
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\obj\x86\Debug\Sanford.Multimedia.Midi.csproj.GenerateResource.cache
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\obj\x86\Debug\Sanford.Multimedia.Midi.csproj.CoreCompileInputs.cache
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\obj\x86\Debug\Sanford..F7D6B535.Up2Date
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\obj\x86\Debug\Sanford.Multimedia.Midi.dll
+D:\SONARVoiceRecPrototype\Sanford.Multimedia.Midi\obj\x86\Debug\Sanford.Multimedia.Midi.pdb
