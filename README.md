@@ -1,13 +1,16 @@
 # SONAR Voice Control
 Mackie Control Emulation for Voice Recognition DAW Control
 
-**Important information about the SONAR Voice Prototype:**
+![Screenshot](screenshot.png "Screenshot Displaying Most Recent Command: X-Ray, with a plugin GUI semi-transparent")
+
+
+***Important information about the SONAR Voice Prototype:***
 
 This is a quick and dirty, hacky prototype of SONAR voice recognition support. Created by me as a hack-a-thon project when I worked at Cakewalk. It converts spoken commands to MIDI messages according to the Mackie Control Universal MIDI spec.   
 
 The goal was to assess the feasibility and value of directly implementing a voice recognition feature in SONAR X4 (which was in the planning stages at the time) to allow users holding a guitar or standing at a mic in a booth to drive SONAR hands-free. There would also be Universal Design / accessibility benefits. 
 
-**Short Version:**
+## Short Version:
 1) Read the command list at the bottom of this doc. It provides valuable info regarding what the prototype can and can't do.
 2) Make sure a virtual MIDI port is installed.
 3) Insert the Mackie Control plugin in SONAR (Preferences|MIDI|Control Surfaces). Make sure its input is set to the virtual device.
@@ -15,7 +18,7 @@ The goal was to assess the feasibility and value of directly implementing a voic
 5) Set the applet's output to the virtual MIDI device.
 6) Optionally set the applet's input to the MIDI device you'll use to trigger listening mode.
 
-**Long Version:**   
+## Long Version:  
 
 To use the app, set its output to the Mackie Control surface plugin using a virtual driver (I recommend LoopMIDI for x64 support: http://www.tobias-erichsen.de/software/loopmidi.html).   
 
@@ -35,6 +38,7 @@ The .NET 4.0 Client Profile redist is required. This is installed with SONAR, so
 
 The app may crash if it can't access your Windows default recording device. This can happen if you're using ASIO4ALL in SONAR or if you're in MME driver mode and don't have "Share Drivers With Other Programs" selected in Preferences|Playback and Recording. If it happens to crash, you'll have to kill the process in the Task Manager, change your SONAR settings, and relaunch. 
 
+## Commands
 The following spoken commands are available:
 - Transport
     - "Play"
